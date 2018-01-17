@@ -21,9 +21,15 @@ or
     python3 pong.py
     
 place the checks sheet(from printouts)
+
 ![Checks board](checks.jpg?raw=true "Checks board")
+
 in front of camera for calibration
-once the calibration is over it'll show the second printout image (marker board). Take care that ur printout is alligned upside down to the shown image.
+once the calibration is over it'll show the second printout image (marker board). 
+
+![Marker board](marker_board.jpg?raw=true "Marker Board")
+
+Take care that ur printout is alligned upside down to the shown image.
 And the press Enter.
 Once the game starts press on the Pygame window with your mouse so that the windows is selected and then the code can listen to the comands you
 pass through key board.
