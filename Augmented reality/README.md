@@ -21,6 +21,7 @@ or
     python3 pong.py
     
 place the checks sheet(from printouts)
+![Checks board](checks.jpg?raw=true "Checks board")
 in front of camera for calibration
 once the calibration is over it'll show the second printout image (marker board). Take care that ur printout is alligned upside down to the shown image.
 And the press Enter.
